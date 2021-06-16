@@ -1,0 +1,4 @@
+#archivo .gitignore
+data
+package-lock.json
+node_modules
